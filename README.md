@@ -225,7 +225,7 @@ Catch the errors from `errors.py` and branch on the status. A 429 is quota. A sa
 
 Some calls need a field the typed config does not wrap yet. The client allows an extra body for that case. Use it for a documented field, and remove it when the typed config catches up. An extra body full of guesses is how a request becomes impossible to debug.
 
-![Editor Placeholder](cli/photo2.png)
+![Editor Placeholder](cli/photo2.jpg)
 
 ## Download
 
@@ -243,7 +243,7 @@ For speech, switch to an audio-capable model and play the result. `audio/Audio.j
 
 For images, run one still before you start a video operation. Video jobs take longer and spend more quota. Confirm the still matches the prompt, then start Veo.
 
-![Grid Placeholder](cli/photo3.jpg)
+![Grid Placeholder](cli/photo3.png)
 
 ## Related Questions
 
